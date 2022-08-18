@@ -1,11 +1,16 @@
 _repo: The-Vailan-or-annular-theory-A-synopsis-of-Prof-I-N-Vail-s-argument-in-support-of-the-claim-t__68690
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68690-h/images/cover.jpg
 creator:
   author:
     agent_name: Bowers, Stephen
     gutenberg_agent_id: '54903'
     url: http://www.gutenberg.org/2009/agents/54903
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68690#The-Vailan-or-annular-theory-A-synopsis-of-Prof-I-N-Vail-s-argument-in-support-of-the-claim-t_
 gutenberg_issued: '2022-08-05'
 identifiers:
   gutenberg: '68690'
